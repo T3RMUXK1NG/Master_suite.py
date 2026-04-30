@@ -491,7 +491,7 @@ class MasterSuite:
         }
         
         print(f"\n\033[1;36m{tool_name.title()} Documentation:\033[0m")
-        print(docs.get(tool_name, "Documentation not available. Try 'man {tool_name}' or '--help'"))
+        print(docs.get(tool_name, f"Documentation not available. Try 'man {tool_name}' or '--help'"))
     
     def exit_tool(self):
         """Clean exit"""
