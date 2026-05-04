@@ -29,7 +29,7 @@ from datetime import datetime
 class Brand:
     AUTHOR = "T3RMUXK1NG"
     YOUTUBE = "@growwitht3rmuxk1ng"
-    INSTAGRAM = "@official_t3rmuxk1ng_jatav"
+    INSTAGRAM = "@official_t3rmuxk1ng_t3rmuxk1ng"
     VERSION = "MASTER SUITE 12.0"
     
     BANNER = f"""
