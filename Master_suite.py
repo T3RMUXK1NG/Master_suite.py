@@ -7,7 +7,7 @@
 ███████╗╚██████╔╝███████╗██║░░██║███████╗╚█████╔╝░░░██║░░░╚█████╔╝██║░░██║
 ╚══════╝░╚═════╝░╚══════╝╚═╝░░╚═╝╚══════╝░╚════╝░░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝
 
-Version: MASTER SUITE 12.0 | By: Rajsaraswati Jatav
+Version: MASTER SUITE 12.0 | By: T3RMUXK1NG
 """
 
 import os
@@ -27,9 +27,9 @@ from datetime import datetime
 
 # ====== [CONSTANTS] ======
 class Brand:
-    AUTHOR = "Rajsaraswati Jatav"
-    YOUTUBE = "@growwithrajsaraswati"
-    INSTAGRAM = "@official_rajsaraswati_jatav"
+    AUTHOR = "T3RMUXK1NG"
+    YOUTUBE = "@growwitht3rmuxk1ng"
+    INSTAGRAM = "@official_t3rmuxk1ng_jatav"
     VERSION = "MASTER SUITE 12.0"
     
     BANNER = f"""

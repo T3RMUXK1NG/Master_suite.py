@@ -5,7 +5,7 @@
 **The ultimate Python-based security suite with 150+ tools across 16 categories**
 
 [![Language](https://img.shields.io/badge/Language-Python-yellow?logo=python)](https://python.org)
-[![Version](https://img.shields.io/badge/Version-12.0-red)](https://github.com/rajsaraswati-jatavv/Master_suite.py/releases)
+[![Version](https://img.shields.io/badge/Version-12.0-red)](https://github.com/T3RMUXK1NG/Master_suite.py/releases)
 [![License](https://img.shields.io/badge/License-Educational-yellow)](./LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-T3rmuxk1ng-red?logo=youtube)](https://youtube.com/@T3rmuxk1ng)
 [![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Termux-blue?logo=linux)](https://www.linux.org)
@@ -67,7 +67,7 @@ pip install requests beautifulsoup4
 
 ### Quick Start
 ```bash
-git clone https://github.com/rajsaraswati-jatavv/Master_suite.py.git
+git clone https://github.com/T3RMUXK1NG/Master_suite.py.git
 cd Master_suite.py
 python3 Master_suite.py
 ```
@@ -76,7 +76,7 @@ python3 Master_suite.py
 ```bash
 pkg install python
 pip install requests beautifulsoup4
-git clone https://github.com/rajsaraswati-jatavv/Master_suite.py.git
+git clone https://github.com/T3RMUXK1NG/Master_suite.py.git
 cd Master_suite.py
 python Master_suite.py
 ```
